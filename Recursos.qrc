@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/mas.png</file>
+        <file>Recursos/foursquare-check-in.png</file>
+        <file>Recursos/incorrecto.png</file>
+        <file>Recursos/agenda.png</file>
+        <file>Recursos/anadir (1).png</file>
+    </qresource>
+</RCC>
